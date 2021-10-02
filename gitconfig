@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = michael.broza@dealcircle.com
+	name = Michael Broza
